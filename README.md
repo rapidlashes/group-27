@@ -15,7 +15,6 @@ Added quarters on order date
 Merged Location by Region, Country and city using power query
 to make the price band column, I had to use the percentile.inc fxn. To get a cut off point for the 0.33 percentile which in our case is the lower percentile, then did the same for the 0.67 percentile which is the middle one.
 I then used the nested if function to label unit price values within the first, second and third percentile as low, medium and high respectively
-<img width="2115" height="407" alt="image" src="https://github.com/user-attachments/assets/93fe91f6-5d93-46d0-8ec7-5d3f40bae13e" />
 
 
 # PART  B 
@@ -55,7 +54,7 @@ Created a pivot showing rate of  salesperson give discounts above 20%  in each r
 Added a new sheet flaging sales person giving discount above 20% named discount outliers
 Highlighted extreme discount given by sales person
 
-<img width="2115" height="1074" alt="image" src="https://github.com/user-attachments/assets/6ae23c62-cf89-4435-a29a-d2200892045b" />
+
 
 
 # Dashboarding:
@@ -85,7 +84,6 @@ Created a comparison table of the baseline and scenario comparing changes to dis
 copy pasted the discount percentage column on another sheet, then went direct to insert and clicked on the statistical chart where I found the box plot 
 I then inserted the box plot using the data of discount percentages
 box blots are mainly used to show distribution of data
-<img width="2115" height="784" alt="image" src="https://github.com/user-attachments/assets/f324defc-122e-4756-8a7c-a854c3e37de4" />
 
 
 # INSIGHTS
