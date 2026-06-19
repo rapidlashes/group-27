@@ -87,7 +87,16 @@ box blots are mainly used to show distribution of data
 
 
 # INSIGHTS
-
+Salesperson who made the least profit is N.rown with a gross profit of 107,713/=
+Sales person who made the most profit is M.Rossi with a gross profit of 368,408/=
+Only 27% of the total orders have managed to meet the leadtime days target which is less or equal to 7 days
+The main channel of product distribution across all regions is generally Direct channel
+Product with the largest discount is Accessories, 56.50%
+Main channel of distribution of these products in Asia is Direct channel
+Majority of these products have a discount percentage range of 7-15%
+Most commonly sold electronic product is Printers
+Main channel of distribution for these products in Africa is Marketplace
+Asia is the region with the largest market of these electronic products
 
 
 
