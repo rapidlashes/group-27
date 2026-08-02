@@ -1,5 +1,3 @@
-# group-27
-KEEP GOING YOU WILL CRACK THE CODE!!
 
 # Part A
  # DATA CLEANING 
@@ -99,11 +97,6 @@ Main channel of distribution for these products in Africa is Marketplace
 Asia is the region with the largest market of these electronic products
 
 
-# GROUP MEMBERS:
-Calvin Alembi(did KPIs, Dashboard visualsand DAX)
-Ahmed Salim(did cleaning, and building report(dashbard and insights)
-Moses
-Elishiba
 
 
 
